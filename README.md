@@ -4,6 +4,8 @@
 
 # PROJETO
 
+Projeto com a intenção de trabalhar todos conhecimentos que adquiri com esse tempo estudando, a meta é criar um e-commerce usando python com o framewoork DJANGO.
+
  https://ztonini0.github.io/site-high-sneakers-br/
  
  __________________________________________________________________________________________________________________________________________________________________________________
