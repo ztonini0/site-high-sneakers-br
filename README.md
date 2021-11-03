@@ -1,10 +1,10 @@
 # site-high-sneakers-br
 
 
-#INSPiRAÇÃO
+# INSPiRAÇÃO
 
 Os vídeos que me inspirei para realizar todas as páginas
 
 
-#CRÉDITOS-IMAGENS
+# CRÉDITOS-IMAGENS
 
